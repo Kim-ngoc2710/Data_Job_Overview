@@ -10,7 +10,7 @@ Ce document offre une analyse détaillée du marché de l'emploi dans le domaine
 Le jeu de données utilisé pour cette analyse provient de Kaggle: https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor.
 
 ## Data Cleaning
-<img src="Images/data_cleaning_KNIME AP.PNG" width="1000">
+<img src="Images/data_cleaning_KNIME_AP.png" width="1000">
 
 
 ## Fonctionnalités Clés
